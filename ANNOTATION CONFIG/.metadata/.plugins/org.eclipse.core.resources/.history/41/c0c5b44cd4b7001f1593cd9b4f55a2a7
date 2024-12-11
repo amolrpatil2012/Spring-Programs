@@ -1,0 +1,6 @@
+package cg.annotation.beans;
+
+public interface PaymentProvider {
+
+	void acceptPayment();
+}

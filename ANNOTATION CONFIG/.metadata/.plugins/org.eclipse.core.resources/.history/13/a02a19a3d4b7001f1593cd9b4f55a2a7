@@ -1,0 +1,5 @@
+package factory.config;
+
+public class App {
+
+}

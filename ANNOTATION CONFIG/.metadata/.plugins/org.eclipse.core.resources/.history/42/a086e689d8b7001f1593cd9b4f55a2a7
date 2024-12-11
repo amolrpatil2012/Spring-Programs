@@ -1,0 +1,16 @@
+package com.example;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.example.beans.ValueDemo;
+import com.example.config.ProjectConfig;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		   AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ProjectConfig.class);
+		   ValueDemo valueDemo = context.getBean(ValueDemo.class);
+		   valueDemo.printConfig();
+	}
+}
