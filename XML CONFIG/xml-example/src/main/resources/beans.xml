@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+	<bean name="student1" class="org.xml_example.Student" autowire="byName">
+	
+		<constructor-arg index="1" value="Amol"></constructor-arg>
+		<constructor-arg index="2" ref="addr1"></constructor-arg>
+		<constructor-arg index="0" value="1"></constructor-arg>
+		<property name="vehicle" ref="bike"></property>
+		
+	</bean>
+
+	<!-- <bean name="student2" class="org.xml_example.Student"/> -->
+	
+
+	<bean name="addr1" class="org.xml_example.Address">
+	<constructor-arg value="Pune"></constructor-arg>
+	</bean>
+	
+		<bean name="vehicle" class="org.xml_example.Car" />
+		<bean name="bike" class="org.xml_example.Bike"/>
+		
+</beans>
