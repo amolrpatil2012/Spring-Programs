@@ -1,0 +1,111 @@
+2024-12-12 11:54:10,767 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 11:57:57,361 [Worker-34: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:LogDemo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\pom.xml.
+2024-12-12 11:57:58,201 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LogDemo/src/main/java
+2024-12-12 11:57:58,203 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/main/resources
+2024-12-12 11:57:58,209 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/main/resources
+2024-12-12 11:57:58,214 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LogDemo/src/test/java
+2024-12-12 11:57:58,215 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/test/resources
+2024-12-12 11:57:58,697 [Worker-34: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-12-12 11:57:58,701 [Worker-34: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-12 11:57:59,005 [Worker-34: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:LogDemo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\pom.xml.
+2024-12-12 11:57:59,364 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LogDemo/src/main/java
+2024-12-12 11:57:59,365 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/main/resources
+2024-12-12 11:57:59,365 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/main/resources
+2024-12-12 11:57:59,366 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LogDemo/src/test/java
+2024-12-12 11:57:59,366 [Worker-34: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LogDemo/src/test/resources
+2024-12-12 11:57:59,698 [Worker-34: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-12 11:58:01,444 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 11:58:01,515 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 11:58:01,539 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 11:58:34,162 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 11:58:34,165 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 11:58:34,171 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 11:58:41,618 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 11:58:41,620 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 11:58:41,626 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 11:59:15,710 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 11:59:15,715 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 11:59:15,718 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 12:00:12,233 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:00:12,237 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:00:12,239 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 12:01:50,287 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:01:50,292 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:01:50,296 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 12:02:15,104 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:02:15,105 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:02:15,107 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\LogDemo\src\test\resources
+2024-12-12 12:02:55,736 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Log4JDemo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\pom.xml.
+2024-12-12 12:02:56,090 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4JDemo/src/main/java
+2024-12-12 12:02:56,091 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/main/resources
+2024-12-12 12:02:56,092 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/main/resources
+2024-12-12 12:02:56,094 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4JDemo/src/test/java
+2024-12-12 12:02:56,095 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/test/resources
+2024-12-12 12:02:56,284 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-12-12 12:02:56,286 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-12 12:02:56,543 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Log4JDemo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\pom.xml.
+2024-12-12 12:02:56,826 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4JDemo/src/main/java
+2024-12-12 12:02:56,827 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/main/resources
+2024-12-12 12:02:56,827 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/main/resources
+2024-12-12 12:02:56,827 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4JDemo/src/test/java
+2024-12-12 12:02:56,828 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4JDemo/src/test/resources
+2024-12-12 12:02:57,006 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-12 12:02:57,318 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:02:57,348 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:02:57,354 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:03:19,456 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Log4JDemo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\pom.xml.
+2024-12-12 12:03:20,617 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0.pom
+2024-12-12 12:03:20,635 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0.pom
+2024-12-12 12:03:20,859 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.pom
+2024-12-12 12:03:20,879 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.pom
+2024-12-12 12:03:21,120 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.pom
+2024-12-12 12:03:21,197 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.pom
+2024-12-12 12:03:21,458 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1.pom
+2024-12-12 12:03:21,466 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1.pom
+2024-12-12 12:03:21,810 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0.jar
+2024-12-12 12:03:21,822 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0.jar
+2024-12-12 12:03:22,045 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1.jar
+2024-12-12 12:03:22,148 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1.jar
+2024-12-12 12:03:22,733 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar
+2024-12-12 12:03:22,735 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar
+2024-12-12 12:03:22,754 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar
+2024-12-12 12:03:26,880 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar
+2024-12-12 12:03:27,051 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:03:27,052 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:03:27,055 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:03:27,442 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:03:27,468 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:03:27,470 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:03:28,649 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0-sources.jar
+2024-12-12 12:03:28,656 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/3.4.0/spring-boot-starter-log4j2-3.4.0-sources.jar
+2024-12-12 12:03:28,662 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-log4j2:3.4.0
+2024-12-12 12:03:29,507 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1-sources.jar
+2024-12-12 12:03:29,631 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1-sources.jar
+2024-12-12 12:03:29,636 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-slf4j2-impl:2.24.1
+2024-12-12 12:03:30,307 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1-sources.jar
+2024-12-12 12:03:31,769 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1-sources.jar
+2024-12-12 12:03:31,771 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.24.1
+2024-12-12 12:03:32,615 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1-sources.jar
+2024-12-12 12:03:32,677 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jul/2.24.1/log4j-jul-2.24.1-sources.jar
+2024-12-12 12:03:32,682 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-jul:2.24.1
+2024-12-12 12:03:43,289 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:03:43,312 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:03:43,315 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:04:35,879 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:04:35,882 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:04:35,885 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:04:43,527 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:04:43,531 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:04:43,533 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:05:14,499 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:05:14,503 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:05:14,504 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:05:55,909 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:05:55,910 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:05:55,914 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:07:31,696 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:07:31,698 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:07:31,704 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
+2024-12-12 12:07:37,522 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-12 12:07:37,522 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-12 12:07:37,525 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\SPRING PROGRAMS\LOGGING\Log4JDemo\src\test\resources
