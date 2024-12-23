@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="helloWorld" class="xml.config.beans.HelloWorld">
+    	<property name="message" value="Hello World"></property>    
+    </bean>
+    
+    <bean id="currencyConverter" class="xml.config.beans.CurrencyConverterImpl">
+    <constructor-arg><value>80</value></constructor-arg>
+    </bean>
+
+	<bean id="emp" class="xml.config.beans.Emp" lazy-init="true" init-method="init" destroy-method="destroy" scope="prototype">
+	<constructor-arg value="10" type="long"></constructor-arg>
+	<constructor-arg value="Amol"></constructor-arg>
+	<constructor-arg value="Patil"></constructor-arg>
+	</bean>
+	
+	<bean id="address" class="xml.config.beans.Address">
+		<constructor-arg value="Mumbai"></constructor-arg>
+		<constructor-arg value="Maharashtra"></constructor-arg>
+		<constructor-arg value="India"></constructor-arg>
+	</bean>
+	<bean id="student" class="xml.config.beans.Student">
+		<constructor-arg value="Amol"></constructor-arg>
+		<constructor-arg><ref bean="address"></ref></constructor-arg>	
+	</bean>
+	
+	
+	<bean id="objAddress" class="xml.config.beans.Address">
+		<property name="city" value="Pune"></property>
+		<property name="state" value="Maharashtra"></property>
+		<property name="country" value="India"></property>	
+	</bean>
+	
+	<bean id="objStudent" class="xml.config.beans.Student">
+		<property name="name" value="Sachin"></property>
+		<property name="address" ref="objAddress"></property>	
+	</bean>
+	
+	<bean id="c1" class="xml.config.beans.Course">
+		<property name="courseId" value="1"></property>
+		<property name="courseName" value="Java"></property>
+	</bean>
+	<bean id="c2" class="xml.config.beans.Course">
+		<property name="courseId" value="2"></property>
+		<property name="courseName" value="Python"></property>
+	</bean>
+	
+	<bean id="teacherObj" class="xml.config.beans.Teacher">
+		<property name="name" value="Kavita"></property>
+		<property name="courses">
+			<map>
+				<entry key="j" value-ref="c1"></entry>
+				<entry key="p" value-ref="c2"></entry>
+			
+			</map>
+		</property>
+	</bean>
+	
+
+	<bean id="s1" class="xml.config.beans.TwitterService"></bean>
+	
+	
+	<bean id="msg" class="xml.config.beans.MessageProcessor" autowire="byType"></bean>	
+	
+	
+	
+</beans>
